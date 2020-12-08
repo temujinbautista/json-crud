@@ -22,7 +22,7 @@ include 'inc/header.php';
 
                     <tr>
                         <td>
-                            <?php if (isset($user['extension'])): ?>
+                            <?php if (isset($user['extension'])) : ?>
                                 <img style="width: 60px" src="<?php echo "users/images/${user['id']}.${user['extension']}" ?>" alt="">
                             <?php endif; ?>
                         </td>

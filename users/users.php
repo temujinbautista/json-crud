@@ -23,7 +23,7 @@ function getUserById($id)
 
 function createUser($data)
 {
-    
+
     $data['id'] = rand();
 
     $users = getUsers();

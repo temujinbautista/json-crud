@@ -14,9 +14,9 @@ if (!$user) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-        updateUser($_POST, $uid);
-        uploadImage($_FILES['picture'], $user);
-        header("Location: index.php");
+    updateUser($_POST, $uid);
+    uploadImage($_FILES['picture'], $user);
+    header("Location: index.php");
 }
 
 ?>

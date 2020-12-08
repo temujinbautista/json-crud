@@ -1,42 +1,42 @@
 [
-    {
-        "id": 6,
-        "name": "mom",
-        "email": "mom@gmail.com",
-        "phone": "09201228456",
-        "website": "www.mom.com",
-        "extension": "png"
-    },
-    {
-        "name": "temujin",
-        "email": "temujinbautista@gmail.com",
-        "phone": "09201228123",
-        "website": "www.temujin.tk",
-        "id": 1807531,
-        "extension": "jpeg"
-    },
-    {
-        "name": "Neko",
-        "email": "neko@gmail.com",
-        "phone": "092121212121",
-        "website": "www.neko.com",
-        "id": 1601318919,
-        "extension": "jpeg"
-    },
-    {
-        "name": "Archie",
-        "email": "archie@gmail.com",
-        "phone": "09201000123",
-        "website": "www.archie.com",
-        "id": 1541151056,
-        "extension": "png"
-    },
-    {
-        "name": "test",
-        "email": "test@test.test",
-        "phone": "123213213123",
-        "website": "www.test.test",
-        "id": 2093593894,
-        "extension": "jpeg"
-    }
+  {
+    "id": 6,
+    "name": "mom",
+    "email": "mom@gmail.com",
+    "phone": "09201228456",
+    "website": "www.mom.com",
+    "extension": "png"
+  },
+  {
+    "name": "temujin",
+    "email": "temujinbautista@gmail.com",
+    "phone": "09201228123",
+    "website": "www.temujin.tk",
+    "id": 1807531,
+    "extension": "jpeg"
+  },
+  {
+    "name": "Neko",
+    "email": "neko@gmail.com",
+    "phone": "092121212121",
+    "website": "www.neko.com",
+    "id": 1601318919,
+    "extension": "jpeg"
+  },
+  {
+    "name": "Archie",
+    "email": "archie@gmail.com",
+    "phone": "09201000123",
+    "website": "www.archie.com",
+    "id": 1541151056,
+    "extension": "png"
+  },
+  {
+    "name": "test",
+    "email": "test@test.test",
+    "phone": "123213213123",
+    "website": "www.test.test",
+    "id": 2093593894,
+    "extension": "jpeg"
+  }
 ]
